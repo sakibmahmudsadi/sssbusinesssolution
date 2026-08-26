@@ -59,10 +59,10 @@
 <table align="center" style="border: none;">
   <tr>
     <td align="center" width="50%">
-      <img src="assets/sssp8%20little%20short.png" height="420" alt="Mobile 8" />
+      <img src="assets/sssp8%20little%20short.png" width="250" height="450" alt="Mobile 8" />
     </td>
     <td align="center" width="50%">
-      <video src="https://github.com/user-attachments/assets/b8f0a158-5672-467d-bf9b-7806ade6d91d" height="420" controls></video>
+      <video src="https://github.com/user-attachments/assets/b8f0a158-5672-467d-bf9b-7806ade6d91d" width="250" height="450" controls></video>
     </td>
   </tr>
 </table>
