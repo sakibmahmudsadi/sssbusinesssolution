@@ -1,6 +1,8 @@
 <div align="center">
   <h1>
-    <img src="assets/Logo%20Main.png" width="45" align="center" alt="Logo"> SSS Business Solution
+    <a href="https://www.sssbusinesssolution.com/" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="assets/Logo%20Main.png" width="85" align="center" alt="Logo"> SSS Business Solution
+    </a>
   </h1>
   <p>
     <i>Built by <b>Sakib Mahmud Sadi</b> on August 2026</i>
@@ -53,11 +55,16 @@
   <img src="assets/sssp7.png" width="30%" alt="Mobile 7" />
 </p>
 
-<p align="center">
-  <img src="assets/sssp8%20little%20short.png" width="30%" alt="Mobile 8" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <video src="https://github.com/user-attachments/assets/b8f0a158-5672-467d-bf9b-7806ade6d91d" width="30%" controls></video>
-</p>
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/sssp8%20little%20short.png" width="60%" alt="Mobile 8" />
+    </td>
+    <td align="center" width="50%">
+      <video src="https://github.com/user-attachments/assets/b8f0a158-5672-467d-bf9b-7806ade6d91d" width="60%" controls></video>
+    </td>
+  </tr>
+</table>
 
 ---
 
