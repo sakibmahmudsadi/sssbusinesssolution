@@ -1,12 +1,9 @@
 <div align="center">
   <h1>
-    <a href="https://www.sssbusinesssolution.com/" target="_blank">
-      <img src="assets/Logo%20Main.png" width="85" align="center" alt="Logo">
-    </a>
-    SSS Business Solution
+    <a href="https://www.sssbusinesssolution.com/" target="_blank"><img src="assets/Logo%20Main.png" width="85" align="absmiddle" alt="Logo"></a> SSS Business Solution
   </h1>
   <p>
-    <i>Built by <b>Sakib Mahmud Sadi</b> on August 26, 2026</i>
+    <i>Built by <b>Sakib Mahmud Sadi</b> on August 2026</i>
   </p>
   <p>
     <a href="https://www.sssbusinesssolution.com/">🌐 www.sssbusinesssolution.com</a>
@@ -15,7 +12,7 @@
 
 <br>
 
-## 🎬 Audio & Visuals
+## 🎬 Visuals
 
 ### Desktop Showcase
 
@@ -62,10 +59,10 @@
 <table align="center" style="border: none;">
   <tr>
     <td align="center" width="50%">
-      <img src="assets/sssp8%20little%20short.png" width="260" alt="Mobile 8" />
+      <img src="assets/sssp8%20little%20short.png" height="420" alt="Mobile 8" />
     </td>
     <td align="center" width="50%">
-      <video src="https://github.com/user-attachments/assets/b8f0a158-5672-467d-bf9b-7806ade6d91d" width="260" controls></video>
+      <video src="https://github.com/user-attachments/assets/b8f0a158-5672-467d-bf9b-7806ade6d91d" height="420" controls></video>
     </td>
   </tr>
 </table>
